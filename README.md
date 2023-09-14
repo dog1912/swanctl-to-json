@@ -1,4 +1,4 @@
-# Converts swanctl  output to json format
+# Convert swanctl output to json format
 
 This script outputs information from swanctl to json. This script can be used for monitoring in zabbix.
 This repository was created for GNU/Linux Ubuntu 20.04.4 LTS servers.
